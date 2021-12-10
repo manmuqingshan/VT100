@@ -131,7 +131,7 @@ private:
 	Pos savedCursorPos;
 	uint16_t scrollStartRow;
 	uint16_t scrollEndRow;
-	// Screem size in pixels
+	// Screen size in pixels
 	uint16_t screenWidth;
 	uint16_t screenHeight;
 	// Screen size in characters
